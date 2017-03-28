@@ -1,0 +1,29 @@
+{
+  "name": "webpack-demo",
+  "version": "1.0.0",
+  "description": "webpack相关学习配置",
+  "main": "webpack.config.js",
+  "dependencies": {
+    "webpack": "^2.3.2"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "^2.4.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yangfeng002/webpackDemo.git"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "fy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yangfeng002/webpackDemo/issues"
+  },
+  "homepage": "https://github.com/yangfeng002/webpackDemo#readme"
+}
